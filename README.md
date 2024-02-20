@@ -1,5 +1,5 @@
 # maroOS
- a independent indie operating system 
+ a independent indie developed operating system 
 implemented:
  - terminal initialization
  - chaning color of terminal text and background
