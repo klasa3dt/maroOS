@@ -2,6 +2,7 @@
  a independent indie developed operating system 
  
 <span style="color🍏">implemented:</span>
+ - bootloader
  - terminal initialization
  - chaning color of terminal text and background
  - displaying chars and string on the terminal
