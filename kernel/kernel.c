@@ -6,6 +6,6 @@ void kernelMain (void) {
 
     terminalInitialize (terminal, 80, 25);
 
-    terminalWriteString(terminal, "Sigmas\nSigma Nigger");
+    terminalWriteString(terminal, "Hello Terminal");
 
 }
